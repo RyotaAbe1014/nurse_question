@@ -1,0 +1,6 @@
+beautifulsoup4==4.9.3
+Django==3.2
+djangorestframework==3.13.1
+djangorestframework-jwt==1.11.0
+requests==2.27.1
+soupsieve==2.2.1

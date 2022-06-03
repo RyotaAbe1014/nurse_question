@@ -33,12 +33,7 @@ for num in range(61):
         continue
       
       answer=elem.find("span", class_="num").text
-      print(title)
-      print(option1)
-      print(option2)
-      print(option3)
-      print(option4)
-      print(answer)
+
       q = Question(
       title=title,
       answer=answer,
